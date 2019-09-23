@@ -149,6 +149,13 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * Lunar Lander genre
 * web (free of charge)
 
+#### Powder Toy
+
+* [powdertoy.co.uk](https://powdertoy.co.uk/)
+* newtonian physics, particle interactions
+* sandbox
+* GNU/Linux (free), MacOS (free), Windows (free), Android (free)
+
 ### Chemistry
 
 #### Covalence
